@@ -2,9 +2,9 @@
 Esta es una descripcion para el proyecto de prueba
 en esta demostracion hare lo segundo
 * Crear un repositorio
-- sub item 1
-- sub item 2
-- sub item 3
+  - sub item 1
+  - sub item 2
+  - sub item 3
 * Editar el `readme.md`
 * Asustar a mis estudiantes
 
